@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color: lightgray;
+}
+.redbox{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.bluebox{
+    background-color: darkblue;
+    height: 200px;
+    width: 200px;
+}

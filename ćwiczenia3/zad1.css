@@ -1,0 +1,15 @@
+p{
+    color: red;
+}
+div > ul{
+    background-color: blue;
+}
+a + span{
+    color: green;
+}
+.title > li{
+    background-color: yellow;
+}
+.container + h2{
+    font-style: italic;
+}
