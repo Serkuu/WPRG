@@ -1,0 +1,28 @@
+input{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px #ccc solid;
+}
+button{
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+form{
+    display: block;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 20px;
+}
